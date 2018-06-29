@@ -2,20 +2,20 @@ package mockingbird.cloud.geoquiz;
 
 class Question {
 
-    private int textResId;
+    private int textResourceId;
     private boolean answerTrue;
 
-    public Question(int textResId, boolean answerTrue) {
-        this.textResId = textResId;
+    public Question(int textResourceId, boolean answerTrue) {
+        this.textResourceId = textResourceId;
         this.answerTrue = answerTrue;
     }
 
-    public int getTextResId() {
-        return textResId;
+    public int getTextResourceId() {
+        return textResourceId;
     }
 
-    public void setTextResId(int textResId) {
-        this.textResId = textResId;
+    public void setTextResourceId(int textResourceId) {
+        this.textResourceId = textResourceId;
     }
 
     public boolean isAnswerTrue() {

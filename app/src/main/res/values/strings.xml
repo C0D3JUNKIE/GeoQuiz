@@ -9,11 +9,14 @@
     <string name="cheat_button">Cheat?</string>
     <string name="next_button">NEXT</string>
     <string name="previous_button">PREV</string>
+    <string name="warning_text">You sure?</string>
+    <string name="show_answer_button">Show Answer</string>
 
 
     <!-- Toast Messages -->
     <string name="correct_toast">Correct</string>
     <string name="incorrect_toast">Incorrect</string>
+    <string name="judgement_toast"></string>
 
 
     <!-- Accessibility Content Descriptions -->
